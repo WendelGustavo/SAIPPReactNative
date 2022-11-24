@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "SAIPP",
+    "slug": "SAIPP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+        "bundleIdentifier": "com.SAIPP.SAIPP",
+        "buildNumber": "1.0.0",
+        "supportsTablet": true
+    },
+    "android":{
+      "package": "com.SAIPP.SAIPP",
+      "versionCode": 1
+    }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+
