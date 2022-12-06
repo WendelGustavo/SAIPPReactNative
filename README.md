@@ -32,9 +32,15 @@
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
+
 - Expo
 - PHP
 - React Native
 - Java Script
 
+
+### 🏆 Premiações conquistadas com o projeto 
+
+- Primeiro lugar na feira de inovação técnologica (FEINTEC) 2022.
+- Segundo lugar VII FIMUCTI - Feira de Ciência, Tecnologia e Inovação do Vale do Café 2022
 
