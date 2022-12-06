@@ -1,4 +1,4 @@
-<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/saipp.png" width="70px" margin="40px">
+<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/saipp.png" width="100px" margin="40px">
 <h1 align="center">SAIPP - Sistema Autossustentavel de Irrigação para Pequenos Produtores</h1>
 
 ### Funcionalidades
@@ -14,17 +14,17 @@
 
 <p align="center">
   
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-12-06 at 17.24.01.jpeg" width="250px" margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-12-06 at 17.24.01.jpeg" width="230px" margin="40px">
   
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-19 at 22.18.22 (3).jpeg" width="250px"  margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-19 at 22.18.22 (3).jpeg" width="230px"  margin="40px">
   
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-17 at 22.23.07 (2).jpeg" width="250px"  margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-17 at 22.23.07 (2).jpeg" width="230px"  margin="40px">
 
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-20 at 01.22.01 (2).jpeg" width="250px"  margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-10-20 at 01.22.01 (2).jpeg" width="230px"  margin="40px">
   
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Captura de tela 2022-12-06 174054.png" width="250px"  margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Captura de tela 2022-12-06 174054.png" width="230px"  margin="40px">
   
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Captura de tela 2022-12-06 174005.png" width="250px"  margin="40px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/Captura de tela 2022-12-06 174005.png" width="230px"  margin="40px">
   
 </p>
 
