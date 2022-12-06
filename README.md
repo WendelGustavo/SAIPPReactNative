@@ -4,13 +4,13 @@
 ### Funcionalidades
 
 - [x] Cadastro de usuário.
-- [x] Sistema de Layout que atualiza as cores como o padrão do dispositivo do usuário.
+- [x] Sistema de Layout que atualiza suas cores conforme o padrão do dispositivo do usuário.
 - [x] Controle de Umidade.
 - [x] Acionamento de um Sistema de irrigação de forma remota.
 - [x] Acionamento por comando de voz com utilização de assistentes.
 - [x] Consumo de API (previsão do tempo e consulta de CEP).
 
-### 📱 Mobile
+## 📱 Mobile
 
 <p align="center">
   
@@ -39,7 +39,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Java Script
 
 
-### 🏆 Premiações conquistadas com o projeto 
+## 🏆 Premiações conquistadas com o projeto 
 
 - Primeiro lugar na feira de inovação técnologica (FEINTEC) 2022.
 - Segundo lugar VII FIMUCTI - Feira de Ciência, Tecnologia e Inovação do Vale do Café 2022
