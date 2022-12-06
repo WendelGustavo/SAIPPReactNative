@@ -10,7 +10,7 @@
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/" width="200px">
   
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
   
