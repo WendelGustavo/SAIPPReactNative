@@ -1,6 +1,6 @@
 <h1 align="center">SAIPP - Sistema Autossustentavel de Irrigação para Pequenos Produtores</h1>
 
-### Features
+### Funcionalidades
 
 - [x] Cadastro de usuário
 - [x] Sistema de Layout que atualiza as cores como o padrão do dispositivo do usuário
@@ -10,6 +10,10 @@
 ### Mobile
 
 <p align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
+  
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
+  
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
 
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
