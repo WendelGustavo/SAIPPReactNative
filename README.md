@@ -10,7 +10,7 @@
 ### Mobile
 
 <p align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/" width="200px">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-12-06 at 17.24.01.jpeg" width="200px">
   
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="" width="200px">
   
