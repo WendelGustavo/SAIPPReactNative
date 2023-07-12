@@ -7,7 +7,7 @@
 - [x] Sistema de Layout que atualiza suas cores conforme o padrão do dispositivo do usuário.
 - [x] Controle de Umidade do solo.
 - [x] Acionamento de um Sistema de irrigação de forma remota.
-- [x] Acionamento por comando de voz com utilização de assistentes.
+- [x] Acionamento por comando de voz com utilização do Google Assistente.
 - [x] Consumo de API (previsão do tempo e consulta de CEP).
 
 ## 📱 Mobile 
