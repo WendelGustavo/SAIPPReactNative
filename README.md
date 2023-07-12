@@ -34,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 - Expo
-- PHP
+- Node JS
 - React Native
 - Java Script
 
