@@ -10,7 +10,7 @@
 - [x] Acionamento por comando de voz com utilização de assistentes.
 - [x] Consumo de API (previsão do tempo e consulta de CEP).
 
-## 📱 Mobile
+## 📱 Mobile 
 
 <p align="center">
   
