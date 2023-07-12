@@ -16,6 +16,7 @@ import EditarU from '../pages/EditarU';
 
 const  Stack = createNativeStackNavigator();
 const  Tab = createBottomTabNavigator();
+
 function Tabs(){
     return(
         <Tab.Navigator
