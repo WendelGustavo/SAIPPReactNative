@@ -8,7 +8,7 @@
 - [x] Controle de Umidade do solo.
 - [x] Acionamento de um Sistema de irrigação de forma remota.
 - [x] Acionamento por comando de voz com utilização do Google Assistente.
-- [x] 
+- [x] Automação do acionamento do sistema pelo nível de umidade do solo.
 - [x] Consumo de API (previsão do tempo e consulta de CEP).
 
 ## 📱 Mobile 
