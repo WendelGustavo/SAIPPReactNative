@@ -8,6 +8,7 @@
 - [x] Controle de Umidade do solo.
 - [x] Acionamento de um Sistema de irrigação de forma remota.
 - [x] Acionamento por comando de voz com utilização do Google Assistente.
+- [x] 
 - [x] Consumo de API (previsão do tempo e consulta de CEP).
 
 ## 📱 Mobile 
@@ -42,5 +43,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## 🏆 Premiações conquistadas com o projeto 
 
 - Primeiro lugar na feira de inovação técnologica (FEINTEC) 2022.
-- Segundo lugar VII FIMUCTI - Feira de Ciência, Tecnologia e Inovação do Vale do Café 2022
+- Segundo lugar VII FIMUCTI - Feira de Ciência, Tecnologia e Inovação do Vale do Café 2022. (Rio de Janeiro)
 
