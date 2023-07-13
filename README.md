@@ -1,4 +1,4 @@
-<img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/saipp.png" width="100px" margin="40px">
+<img alt="Logo" title="Logo" src="./assets/saipp.png" width="100px" margin="40px">
 <h1 align="center">SAIPP - Sistema Autossustentavel de Irrigação para Pequenos Produtores</h1>
 
 ### Funcionalidades
