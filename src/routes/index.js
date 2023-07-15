@@ -169,7 +169,7 @@ function Tabs(){
             name="Editar"
             component={Editar}
             options={{headerShown: false}}
-            />
+            /> 
         </Stack.Navigator>
         
     );
