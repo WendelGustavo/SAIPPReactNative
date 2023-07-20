@@ -3,7 +3,7 @@
 
 ### Funcionalidades
 
-- [x] Cadastro de usuário.
+- [x] Cadastro de usuário. 
 - [x] Sistema de Layout que atualiza suas cores conforme o padrão do dispositivo do usuário.
 - [x] Controle de Umidade do solo.
 - [x] Acionamento de um Sistema de irrigação de forma remota.
