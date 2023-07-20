@@ -9,7 +9,7 @@
 - [x] Acionamento de um Sistema de irrigação de forma remota.
 - [x] Acionamento por comando de voz com utilização do Google Assistente.
 - [x] Automação do acionamento do sistema pelo nível de umidade do solo. ( Programado limite mínimo e máximo pelo usuário )
-- [x] Consumo de API (previsão do tempo e consulta de CEP). 
+- [x] Consumo de API (previsão do tempo e consulta de CEP).  
 
 ## 📱 Mobile 
 
