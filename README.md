@@ -13,7 +13,7 @@
 
 ## 📱 Mobile 
 
-<p align="center">
+<p align="center"> 
   
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/WhatsApp Image 2022-12-06 at 17.24.01.jpeg" width="220px" margin-right="20px">
   
