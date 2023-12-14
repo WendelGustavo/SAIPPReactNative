@@ -1,7 +1,7 @@
 <img alt="Logo" title="Logo" src="./assets/saipp.png" width="100px" margin="40px">
 <h1 align="center">SAIPP - Sistema Autossustentavel de Irrigação para Pequenos Produtores</h1>
 
-### Funcionalidades
+### 🛠 Funcionalidades
 
 - [x] Cadastro de usuário. 
 - [x] Sistema de Layout que atualiza suas cores conforme o padrão do dispositivo do usuário. 
