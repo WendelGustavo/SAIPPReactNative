@@ -34,14 +34,19 @@
 As seguintes ferramentas foram usadas na construção do projeto:
 
 
-- Expo
-- Node JS
-- React Native
-- Java Script
+- ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+- ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 
 ## 🏆 Premiações conquistadas com o projeto 
 
 - Primeiro lugar na feira de inovação técnologica (FEINTEC) 2022.
 - Segundo lugar VII FIMUCTI - Feira de Ciência, Tecnologia e Inovação do Vale do Café 2022. (Rio de Janeiro)
+
+
+## 📄 Licença
+
+Esse projeto está sob a licença (nome da licença) - acesse os detalhes [LICENSE.md](https://github.com/link_da_licenca).
 
